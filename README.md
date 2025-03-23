@@ -46,3 +46,33 @@ Let’s connect and create something amazing together! 😊
 ### **Programming Languages**  
 - Python, R, Java, C++, PHP, JavaScript and other
 
+---
+
+## **Experience**  
+
+### **AI & Software Developer**  
+🚀 **Self-Employed / Freelancer** | *2023 - Present*  
+- Design, develop, and deploy machine learning models for risk prediction and automation.  
+- Implement deep learning algorithms for image classification and medical AI applications.  
+- Develop AI-powered operating systems with enhanced security and blockchain integration.  
+- Participate in hackathons and AI competitions to stay updated with industry trends.  
+
+### **Crypto & FinTech Developer**  
+💰 **Crypto Exchange & Blockchain Projects** | *2022 - Present*  
+- Built a **crypto exchange platform** with Laravel & Next.js, integrating CCXT for automated trading.  
+- Developed a **crypto loan system** for DeFi lending with risk assessment models.  
+- Integrated Proxmox & Cloud-init for VM-based trading and security solutions.  
+
+### **DevOps & Virtualization Engineer**  
+⚡ **Server & Cloud Management** | *2022 - Present*  
+- Managed **self-hosted systems** with Webmin, Proxmox, and cloud automation.  
+- Implemented **NoVNC & SPICE** for remote access to virtualized environments.  
+- Designed and deployed **SaaS-based VM management** platforms.  
+
+---
+
+🔹 **Open Source & Contributions**  
+- Actively contribute to **AI, Blockchain, and DevOps** repositories on GitHub.  
+- Passionate about **automation, security, and cutting-edge technology**.  
+
+🔥 **Always learning, building, and innovating!** 🚀  
