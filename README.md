@@ -22,3 +22,27 @@ Let’s connect and create something amazing together! 😊
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArmanPayandeh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanPayandeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## **Skills:** :computer:
+
+### **Development & Engineering**  
+- Web Development (Next.js, Laravel, React, Django)  
+- Backend Development (PHP, Node.js, Python)  
+- DevOps & Security (Proxmox, Cloud-init, Webmin)  
+
+### **AI & Machine Learning**  
+- Deep Learning (TensorFlow, PyTorch)  
+- Image Processing & Classification  
+- AI-Driven Operating Systems  
+
+### **Blockchain & FinTech**  
+- Crypto Exchange & Trading Bots (CCXT, Laravel)  
+- Blockchain & Smart Contracts  
+- Crypto Loan Systems  
+
+### **Virtualization & Cloud**  
+- Virtual Machine Management (Proxmox API, NoVNC)  
+- Cloud Computing (AWS, Azure)  
+
+### **Programming Languages**  
+- Python, R, Java, C++, PHP, JavaScript and other
+
